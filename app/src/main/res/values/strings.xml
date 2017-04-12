@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <!-- City Details -->
+    <string name="city_bellary"> Bellary </string>
+    <string name="city_hospet">Hospet</string>
+    <string name="city_harihara"> Harihara </string>
+    <string name="city_bangalore">Bangalore</string>
+    <string name="city_hampi"> Hampi </string>
+    <string name="city_sandur">Sandur</string>
+
+    <string name="state_karnataka"> Karnataka </string>
+
+    <string name="history_hampi_temple">Virupaksha Temple</string>
+    <string name="history_vijayavittala"> Vijaya Vittala Temple</string>
+    <string name="history_anegundi">Anegundi</string>
+    <string name="history_hemakuta">Hemakuta</string>
+    <string name="history_belur">Belur</string>
+
+
+    <!-- University Details -->
+    <string name="mythology_malyavanta">Malyavanta, Hampi</string>
+    <string name="mythology_jambunatha"> Jambunatha, Hospet</string>
+    <string name="mythology_kanaviraya">Kanaviraya, Hospet</string>
+    <string name="mythology_kurugodu">Bull Temple, Kurugodu</string>
+
+
+    <!-- Stay -->
+    <string name="hotel_malligi">Malligi, Hampi</string>
+    <string name="hotel_mahindra"> Mahindra, Coorg</string>
+    <string name="hotel_leela">Leela Palace, Bangalore</string>
+    <string name="hotel_taj">The Taj, Delhi</string>
+    <string name="hotel_ratnavilas">Ratnavilas, Jaipur</string>
+
+
+
+    <!-- Category Details -->
+    <string name="category_city">City</string>
+    <string name="category_stay">Hotels</string>
+    <string name="category_mythology">Mythological Places</string>
+    <string name="category_historical">Historical Places</string>
+
+</resources>
+
+
+
+
+
+
+
